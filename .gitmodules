@@ -17,3 +17,7 @@
 [submodule "mundodelcarton"]
 	path = mundodelcarton
 	url = git@github.com:rocketgithub/mundodelcarton.git
+[submodule "rrhh"]
+	path = rrhh
+	url = git@github.com:rocketgithub/rrhh.git
+	branch = 11.0
