@@ -24,4 +24,4 @@
 [submodule "kardex"]
 	path = kardex
 	url = https://github.com/rocketgithub/kardex.git
-	branch = 10.0
+	branch = 11.0
