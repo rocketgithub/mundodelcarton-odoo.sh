@@ -28,3 +28,6 @@
 [submodule "fel_ecofactura"]
 	path = fel_ecofactura
 	url = git@github.com:rocketgithub/fel_ecofactura.git
+[submodule "fel_gt"]
+	path = fel_gt
+	url = git@github.com:rocketgithub/fel_gt.git
